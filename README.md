@@ -48,3 +48,6 @@ Open AutoRaise.app and click on the menubar icon to enable/disable AutoRaise wit
 On first launch you should be prompted to grant access for AutoRaise in _System Preferences > Security & Privacy > Privacy > Accessibility_.
 
 More options to run and configure AutoRaise are explained in the upstream project's Readme.
+
+
+If you want to suppport this project [buy me a coffee](https://www.buymeacoffee.com/lhaeger)!
